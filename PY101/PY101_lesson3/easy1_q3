@@ -1,0 +1,8 @@
+famous_words = "seven years ago..."
+
+new_string = 'Four score and ' + famous_words
+
+another_string = f'Four score and {famous_words}'
+
+print(new_string)
+print(another_string)
